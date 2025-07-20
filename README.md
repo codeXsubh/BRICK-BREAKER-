@@ -14,15 +14,13 @@ Features:
 
 
 BrickBreaker/
-├── src/
-│   ├── Main.java
-│   ├── Gameplay.java
-│   └── mapgenerator.java
+── src/
+    ─ Main.java
+      ─ Gameplay.java
+        ─ mapgenerator.java
 ├── README.md
 
-
-
----
+****************
 
  How to Run?
 
